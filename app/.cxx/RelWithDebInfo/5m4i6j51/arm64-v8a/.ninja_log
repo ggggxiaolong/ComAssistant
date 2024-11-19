@@ -1,0 +1,3 @@
+# ninja log v5
+0	49	1731982909810263640	CMakeFiles/serial_port.dir/SerialPort.c.o	a36b0293e2921c54
+49	62	1731982909823596327	/home/MrTan/project/ComAssistant-master/app/build/intermediates/cxx/RelWithDebInfo/5m4i6j51/obj/arm64-v8a/libserial_port.so	20622b5ed7540684

@@ -176,7 +176,7 @@ public class ComAssistantActivity extends Activity {
     	checkBoxAutoCOMB.setOnCheckedChangeListener(new CheckBoxChangeEvent());
     	checkBoxAutoCOMC.setOnCheckedChangeListener(new CheckBoxChangeEvent());
     	checkBoxAutoCOMD.setOnCheckedChangeListener(new CheckBoxChangeEvent());
-    	
+
     	ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, 
     			R.array.baudrates_value,android.R.layout.simple_spinner_item);
     	adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -733,7 +733,7 @@ public class ComAssistantActivity extends Activity {
 		{
     		if (radioButtonTxt.isChecked())
 			{
-				ComPort.sendTxt(sOut);
+				ComPort.sendTxt(sOut.replace("/enter", "\r\n"));
 			}else if (radioButtonHex.isChecked()) {
 				ComPort.sendHex(sOut);
 			}

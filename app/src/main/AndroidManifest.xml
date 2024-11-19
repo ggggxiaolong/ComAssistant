@@ -12,6 +12,7 @@
         <activity
             android:label="@string/app_name"
             android:name=".ComAssistantActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
             android:configChanges="orientation|keyboard" >
             <intent-filter >
                 <action android:name="android.intent.action.MAIN" />

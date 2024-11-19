@@ -1,0 +1,6 @@
+# ninja log v5
+0	34	1731981876022131418	CMakeFiles/serial_port.dir/SerialPort.c.o	1b39373d34c7bc0
+34	45	1731981876032130953	/home/MrTan/project/ComAssistant-master/app/build/intermediates/cxx/RelWithDebInfo/582y3d1l/obj/armeabi-v7a/libserial_port.so	bf70e1ad8f32d823
+0	2	0	clean	48319df6ae4a0268
+1	35	1731982205730287879	CMakeFiles/serial_port.dir/SerialPort.c.o	1b39373d34c7bc0
+35	46	1731982205743620603	/home/MrTan/project/ComAssistant-master/app/build/intermediates/cxx/RelWithDebInfo/582y3d1l/obj/armeabi-v7a/libserial_port.so	bf70e1ad8f32d823

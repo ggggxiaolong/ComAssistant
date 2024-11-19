@@ -1,0 +1,3 @@
+/home/MrTan/project/ComAssistant-master/app/.cxx/Debug/h33p2k1r/x86/CMakeFiles/serial_port.dir
+/home/MrTan/project/ComAssistant-master/app/.cxx/Debug/h33p2k1r/x86/CMakeFiles/edit_cache.dir
+/home/MrTan/project/ComAssistant-master/app/.cxx/Debug/h33p2k1r/x86/CMakeFiles/rebuild_cache.dir
