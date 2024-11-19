@@ -1,1 +1,0 @@
-/home/MrTan/project/ComAssistant-master/app/src/main/jni/CMakeLists.txt

@@ -1,1 +1,0 @@
-/home/MrTan/project/ComAssistant-master/app/build/intermediates/cxx/Debug/64p1g6y7/obj/arm64-v8a

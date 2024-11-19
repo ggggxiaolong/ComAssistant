@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/MrTan/project/ComAssistant-master/app/.cxx/Debug/64p1g6y7/x86",
-  "command": "/home/MrTan/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android22 --sysroot=/home/MrTan/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dserial_port_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/serial_port.dir/SerialPort.c.o -c /home/MrTan/project/ComAssistant-master/app/src/main/jni/SerialPort.c",
-  "file": "/home/MrTan/project/ComAssistant-master/app/src/main/jni/SerialPort.c"
-}
-]

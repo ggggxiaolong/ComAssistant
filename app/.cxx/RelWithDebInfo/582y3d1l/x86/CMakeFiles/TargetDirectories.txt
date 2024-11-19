@@ -1,3 +1,0 @@
-/home/MrTan/project/ComAssistant-master/app/.cxx/RelWithDebInfo/582y3d1l/x86/CMakeFiles/serial_port.dir
-/home/MrTan/project/ComAssistant-master/app/.cxx/RelWithDebInfo/582y3d1l/x86/CMakeFiles/edit_cache.dir
-/home/MrTan/project/ComAssistant-master/app/.cxx/RelWithDebInfo/582y3d1l/x86/CMakeFiles/rebuild_cache.dir
